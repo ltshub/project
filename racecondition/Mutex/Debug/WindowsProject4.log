@@ -1,0 +1,5 @@
+﻿  WindowsProject4.cpp
+c:\users\lts\source\repos\windowsproject4\windowsproject4.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\lts\source\repos\windowsproject4\resource.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  WindowsProject4.vcxproj -> C:\Users\LTS\source\repos\WindowsProject4\Debug\WindowsProject4.exe
+  WindowsProject4.vcxproj -> C:\Users\LTS\source\repos\WindowsProject4\Debug\WindowsProject4.pdb (Partial PDB)
